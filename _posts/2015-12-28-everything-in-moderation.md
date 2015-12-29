@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A moment on the lips... forever on Instagram
-datePublished: '2015-12-29T02:33:47.144Z'
-dateModified: '2015-12-29T02:32:44.818Z'
+datePublished: '2015-12-29T02:34:03.462Z'
+dateModified: '2015-12-29T02:33:47.144Z'
 title: Everything in moderation
 author: []
 sourcePath: _posts/2015-12-28-everything-in-moderation.md
