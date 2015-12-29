@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Drinking Coffee Now]]></title>
+        <description><![CDATA[Drinking Coffee Now]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 02:34:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who can resist these?]]></title>
+            <description><![CDATA[<article><h1>Who can resist these?</h1><p>Her chubby little hands</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff5b72f59d9772aa59d21be948eebe00237715ec.jpg"></article>]]></description>
+            <link>undefinedwho-can-resist-these/index.html</link>
+            <guid isPermaLink="false">6dd39c09-badf-4a30-8b90-7ccc32f272ef</guid>
+            <pubDate>Tue, 29 Dec 2015 02:33:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
