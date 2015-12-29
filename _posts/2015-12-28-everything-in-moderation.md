@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A moment on the lips... forever on Instagram
-datePublished: '2015-12-29T06:19:38.426Z'
-dateModified: '2015-12-29T06:19:34.734Z'
+datePublished: '2015-12-29T07:45:35.902Z'
+dateModified: '2015-12-29T07:45:33.533Z'
 title: 'sweet tooth: a craving or fondness for sweet foods'
 author: []
 sourcePath: _posts/2015-12-28-everything-in-moderation.md
@@ -28,11 +28,3 @@ _type: Article
 
 # sweet tooth: a craving or fondness for sweet foods
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7a35f8d-7a52-4897-97d8-9d65e10e9225.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b931282b-defb-4f26-a39f-225bb3f222a5.jpg)
-
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eab1bc2b-6837-4fc3-aa9f-928e84239b4f.jpg)
-
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
