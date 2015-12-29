@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A moment on the lips... forever on Instagram
-datePublished: '2015-12-29T06:18:33.912Z'
-dateModified: '2015-12-29T06:18:27.534Z'
+datePublished: '2015-12-29T06:19:38.426Z'
+dateModified: '2015-12-29T06:19:34.734Z'
 title: 'sweet tooth: a craving or fondness for sweet foods'
 author: []
 sourcePath: _posts/2015-12-28-everything-in-moderation.md
@@ -22,12 +22,11 @@ url: everything-in-moderation/index.html
 _type: Article
 
 ---
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da5f9178-6fa7-4371-bddc-67d70a757925.jpg)
+
+# 
+
 # sweet tooth: a craving or fondness for sweet foods
-
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-
-it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da5f9178-6fa7-4371-bddc-67d70a757925.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7a35f8d-7a52-4897-97d8-9d65e10e9225.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b931282b-defb-4f26-a39f-225bb3f222a5.jpg)
 
