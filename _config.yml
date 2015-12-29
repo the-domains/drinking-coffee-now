@@ -1,7 +1,7 @@
 name: Drinking Coffee Now
 favicon: null
-layout_spectrum: 0.6390311985742301
-typography_spectrum: 0.9255895488895476
+layout_spectrum: 0.26789
+typography_spectrum: 0.49033
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0d090a'
+    - '#c4cfe1'
+    - '#8f9095'
+    - '#4b3528'
+    - '#9e6925'
   brandStrength: 0.3542447732761502
   lightness: 0.15382339130155742
   saturation: 0.643218332901597
